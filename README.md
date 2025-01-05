@@ -1,0 +1,1 @@
+# single-spa-frontend1-template
